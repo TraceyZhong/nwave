@@ -10,4 +10,4 @@ Directory structure and selected files
     -- IMAGES.mat
 
 
-To train the model, use `fig2_train_recover.ipynb`; to visualize the receptive fields, use `compute_receptive_fields.ipynb`; to visualize the neuron excitation, use `fig2_generate.ipynb`.  All results can be found in the code folder.
+To train the model, use `fig2_train_recover.ipynb`; to visualize the receptive fields, use `compute_receptive_fields.ipynb`; to visualize the neuron excitation, use `fig2_generate.ipynb`.  Output images can be found in the code folder.
