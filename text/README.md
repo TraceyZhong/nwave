@@ -12,7 +12,7 @@ Directory structure and selected files
 
 1. Experiment with GloVe embedding 
 
-To download data, go [this link](https://yaleedu-my.sharepoint.com/:f:/g/personal/xinyi_zhong_yale_edu/EmDi_egy6CxDr7eISstXA4oBzhe-3F3qPpR65lWHyH-AlA?e=fz9ho7) and put all files in folder `data/googleNgram/`
+To download data, go [this link](https://drive.google.com/drive/folders/12LGVdCDXXf5H4djD_uPcqBVb7a1Zszha?usp=sharing) and put all files in folder `data/googleNgram/`
 
 To train the model with GloVe embedding go to the code folder 
 ```
@@ -36,7 +36,7 @@ All results can be found in `result/unigram97Loadertr0.2we30wi5lrW0.1lrA0.1/`.
 
 2. Experiment with embedding derived from a LSTM language model. 
 
-To download data, go [this link](https://yaleedu-my.sharepoint.com/:f:/g/personal/xinyi_zhong_yale_edu/Em8bF1nvqddCqyx4o08OUv8Bq_53SbC7o1-6cRgvh4YWqw?e=Ukb7sd) and put all files in folder `data/wiki103/`
+To download data, go [this link](https://drive.google.com/drive/folders/1HY989AbtZ3znbML744c6rKTgrTJaaHb-?usp=sharing) and put all files in folder `data/wiki103/`
 
 To train the model
 ```
