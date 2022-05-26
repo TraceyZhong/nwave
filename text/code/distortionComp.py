@@ -100,15 +100,14 @@ dact = dact[xs, ys]
 
 ## Plotting
 import matplotlib.pyplot as plt
-n = 200
+n = 1000
 
 fig, ax = plt.subplots()
-ax.scatter(demb[:n], dact[:n], s=10, c="red", alpha = 0.3, label = "nwave")
+ax.scatter(demb, dact, s=10, c="red", alpha = 0.3, label = "nwave")
 ax2 = ax.twinx()
-ax2.scatter(demb[:n], dtsned[:n], marker = "x", s=10, c="blue", alpha = 0.3,  label = "tsned")
+ax2.scatter(demb, dtsned, marker = "x", s=10, c="blue", alpha = 0.3,  label = "tsned")
 
 
-# XZ: I hid the axis ticks, but we can set them visible 
 ax.get_xaxis().set_visible(False)
 ax.get_yaxis().set_visible(False)
 ax2.get_yaxis().set_visible(False)
