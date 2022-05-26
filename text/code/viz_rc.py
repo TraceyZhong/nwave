@@ -1,8 +1,4 @@
 '''
-==========
-Date: May 18
-Maintantainer: Xinyi Zhong (xinyi.zhong@yale.edu)
-==========
 ReceptiveFields for text data
 '''
 

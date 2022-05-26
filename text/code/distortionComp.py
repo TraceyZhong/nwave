@@ -1,16 +1,8 @@
-'''
-==========
-Date: May 13
-Maintantainer: Xinyi Zhong (xinyi.zhong@yale.edu)
-==========
-Distortion comparison between our embedding and tsne
-'''
-
 import numpy as np
 from pallet import Unigram97Loader
 
 #################################
-# Computation
+# Computationß
 #################################
 
 
@@ -100,7 +92,6 @@ dact = dact[xs, ys]
 
 ## Plotting
 import matplotlib.pyplot as plt
-n = 1000
 
 fig, ax = plt.subplots()
 ax.scatter(demb, dact, s=10, c="red", alpha = 0.3, label = "nwave")
