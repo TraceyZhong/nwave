@@ -6,6 +6,9 @@ Directory structure and selected files
     -- fig2_generate.ipynb
     -- fig2_train_recover.ipynb
 -- data
+    
+    
+Please download the following files from http://www.rctn.org/bruno/sparsenet/ and put them into the data folder 
     -- IMAGES_RAW.mat
     -- IMAGES.mat
 
